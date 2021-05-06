@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+/* ========== VARIABLES ========== */
+:root {
+  /* COLORS */
+  --card-backgorund-color: linear-gradient(#F9BC61, #FDE8C9);
+  --card-box-shadow: 0px 6px 6px -3px rgba(0, 0, 0, 0.2),
+                       0px 10px 14px 1px rgba(0, 0, 0, 0.14),
+                       0px 4px 18px 3px rgba(0, 0, 0, 0.12);
+  /* TypoGraphy */
+  --body-font: 'Roboto', sans-serif;
+}
+
+/* ========== BASE ========== */
+
+/* ========== CARD ========== */
+
+/* ========== COTENT TOP ========== */
+
+/* ========== COTENT MIDDLE ========== */
+
+/* ========== COTENT BOTTOM ========== */
